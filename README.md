@@ -8,4 +8,4 @@ A simple game that I've done through an old tutorial. As I saw this tutorial sti
 Well, you'll need Unity to compile it.
 
 
-#### No longer maintaned
+#### No longer maintaned - Discontinued
